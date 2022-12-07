@@ -1,0 +1,7 @@
+# NLP-Mini-Project-22
+
+The aim of my project is to analyse a text corpus of Twin Peaks scripts (season one) I discovered on Kaggle.
+I will be analysing the frequency of certain words within the scripts.
+I will visualise using bar charts through matplotlib.
+I will then analyse bigrams and trigrams. 
+In my essay, I have conducted further semantic analysis. 
